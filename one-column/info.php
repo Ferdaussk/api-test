@@ -46,7 +46,7 @@ SELECT * FROM your_table_name;
 // update the number==============================================================================================================
 SQL Query to Update the Number
 UPDATE your_table_name
-SET number_column = 87be1cedebeb506bf0878ebf5c18ce26-us12
+SET number_column = 87be1cedsass34gft43debeb506bf0
 WHERE id = 1;
 
 
